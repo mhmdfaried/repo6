@@ -1,0 +1,11 @@
+if(Myboolean == true) {
+ System.out.println(“Url is correct”);
+ } else {
+ System.out.println(“Url is incorrect”);
+ }
+You are responsible to replace the above code with the following code:
+if(Myboolean == true) {
+ System.out.println(“Url is correct, you can go ahead with this”);
+ } else {
+System.out.println(“Url is incorrect, Please check your Url.”);
+}
